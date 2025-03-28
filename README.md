@@ -67,9 +67,6 @@ To use this extension, you'll need a Google Gemini API key:
 - Google Gemini Flash 2.0 API
 - Bootstrap for UI
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
