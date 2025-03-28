@@ -5,7 +5,7 @@
 const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1/models/gemini-2.0-flash:generateContent';
 // Replace with your actual API key when deploying
 // You can get your API key from https://ai.google.dev/ or https://makersuite.google.com/app/apikey
-const API_KEY = 'AIzaSyAujvzFWjAVyZaF4IAzMy5XtaKK0jAhrmc';
+const API_KEY = 'xxxxxxxxxxxxx';
 
 // Current quiz data stored in memory (will be lost on service worker restart)
 let currentQuizData = [];
